@@ -4,3 +4,4 @@ hello git!
 hello git!
 hello git!
 fix in github
+ssh 免密登录
